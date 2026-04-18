@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "Jabodetabek",
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "nama": "Depok", "populasi": "2.163.635", "tahun": 1999, "luas": 200.29, "gdp nasional": 94 }, "geometry": { "type": "Point", "coordinates": [ 106.815607274191223, -6.406956031225292 ] } },
+{ "type": "Feature", "id": 1, "properties": { "nama": "Jakarta", "populasi": "11.010.514", "tahun": 1527, "luas": 661.0, "gdp nasional": 3680 }, "geometry": { "type": "Point", "coordinates": [ 106.826721862057468, -6.175483110580942 ] } },
+{ "type": "Feature", "id": 2, "properties": { "nama": "Bekasi", "populasi": "2.526.133", "tahun": 1982, "luas": 210.0, "gdp nasional": 279 }, "geometry": { "type": "Point", "coordinates": [ 106.994062958140887, -6.236667152901674 ] } },
+{ "type": "Feature", "id": 3, "properties": { "nama": "Tangerang Selatan", "populasi": "1.376.734", "tahun": 2008, "luas": 164.86, "gdp nasional": 71 }, "geometry": { "type": "Point", "coordinates": [ 106.708749145929687, -6.322362429890063 ] } },
+{ "type": "Feature", "id": 4, "properties": { "nama": "Tangerang", "populasi": "1.957.349", "tahun": 1993, "luas": 178.35, "gdp nasional": 225 }, "geometry": { "type": "Point", "coordinates": [ 106.637925729312713, -6.176243615688364 ] } },
+{ "type": "Feature", "id": 5, "properties": { "nama": "Bogor", "populasi": "1.137.859", "tahun": 1482, "luas": 118.5, "gdp nasional": 176 }, "geometry": { "type": "Point", "coordinates": [ 106.795596762186563, -6.596242278967395 ] } }
+]
+}
